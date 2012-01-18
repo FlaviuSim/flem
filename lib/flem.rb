@@ -1,5 +1,7 @@
 require "flem/version"
 
 module Flem
-  # Your code goes here...
+    def self.magic
+        "Weialala leia\n Wallala leialala"
+    end
 end
